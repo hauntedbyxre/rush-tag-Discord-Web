@@ -1,9 +1,9 @@
-Project Cheetah Discord Widget Website
+RUSH TAG Discord Widget Website
 ======================================
 
 Overview
 --------
-This repository contains a custom HTML website that embeds the Project Cheetah Discord server widget
+This repository contains a custom HTML website that embeds the RUSH TAG Discord server widget
 and adds extra features for announcements, events, rules, and roles. The website is designed to
 provide members and visitors with a clean and interactive view of the server.
 
@@ -50,3 +50,4 @@ On iOS (iPhone/iPad)
     2.    Save to Files app.
     3.    Open with a browser:
     •    Long-press the file → choose Share → Open in Safari (or another browser app like Chrome).
+
